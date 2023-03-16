@@ -1,5 +1,3 @@
-<img src="./public/favicon.png/" alt="Draw" width="200"/>
-
 # BayyNet NFT art platform
 
 [![GitHub stars](https://img.shields.io/github/stars/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/network/)
